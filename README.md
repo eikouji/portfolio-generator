@@ -1,4 +1,4 @@
-# portfolio-generator #
+# Portfolio Generator #
 
 # Description of this Project #
 
